@@ -8,5 +8,5 @@
 #we're just taking notes and not writing code.
 
 #Scripts are one type of R file that we'll be working with this semester. I'll
-#be asking you to cpomplete your first pre-class work assignment in a script
-#like this one.
+#be asking you to complete your first pre-class work assignment, for Session 2,
+#in a script like this one.
